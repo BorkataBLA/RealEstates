@@ -1,2 +1,2 @@
 # RealEstates
-TrainingApp
+Project for training!
